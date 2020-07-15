@@ -1,0 +1,63 @@
+Script para o servidor
+
+1- Para escrever uma palavra, substitua "Seu texto aqui" (Obs: está em azul, se quiser mudar, altere color)
+
+
+var s = "<b ";
+if(value >=0)
+s += "style=\"background-color:#ffffff;color:#0416c1;font-size:380%;\"";
+
+s += ">" +"Seu texto aqui" + "</b>";
+return s;
+
+
+
+
+
+
+2 - Para adquirir o valor do data point (Obs: não substitua nada, a não ser color, font-size ou background-color)
+
+var s = "<b ";
+
+if(value >=0)
+
+ s += "style=\"background-color:#ffffff;color:#f70808;font-size:380%;\"";
+
+ s += ">" + renderedText + "</b>";
+
+return s;
+
+
+
+
+
+
+
+
+
+
+
+
+
+CODIGO MODIFICADO:
+
+var s = "<b ";
+
+var i = "<c ";
+
+if(value >=0)
+
+ s += "style=\"background-color:#ffffff;color:#f70808;font-size:380%;\"";
+
+ s += ">" + renderedText + "</b>";
+
+return s;
+
+if(value >=1)
+
+ i += "style=\"background-color:#ffffff;color:##0416c1;font-size:380%;\"";
+
+ i += ">" + renderedText + "</c>";
+
+return i;
+

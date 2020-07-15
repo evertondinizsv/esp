@@ -1,0 +1,54 @@
+<HTML>
+
+<HEAD>
+
+<TITLE>Criando Tabelas</TITLE>
+
+</HEAD>
+
+<BODY>
+
+<CENTER><FONT COLOR=BLUE SIZE=6>Status Máquina</FONT></CENTER>
+
+<BR>
+
+<TABLE BORDER=1> <! Inicia a tabela e coloca uma borda de espessura igual a 1>
+
+
+<TR> <! Cria a primeira linha da tabela>
+
+<TD>STATUS LED VERDE </TD> <! Aqui foi criada uma célula>
+
+<TD>SEGUNDA COLUNA1 </TD>
+
+<TD>TERCEIRA COLUNA1 </TD>
+
+</TR> <! Fecha a primeira linha da tabela>
+
+
+<TR> <! Cria a primeira linha da tabela>
+
+<TD>STATUS LED AMARELO </TD> <! Aqui foi criada uma célula>
+
+<TD>SEGUNDA COLUNA1 </TD>
+
+<TD>TERCEIRA COLUNA1 </TD>
+
+</TR> <! Fecha a primeira linha da tabela>
+
+
+<TR> <! Abre a segunda linha da tabela>
+
+<TD>STATUS LED VERMELHO</TD>
+
+<TD>SEGUNDA COLUNA </TD>
+
+<TD>TERCEIRA COLUNA </TD>
+
+<TR> <! Encerra a Segunda linha da tabela>
+
+</TABLE> <! Encerra a tabela>
+
+</BODY>
+
+</HTML>
