@@ -1,0 +1,10 @@
+
+
+<img
+onclick='mango.view.executeScript("SC_396584");'
+style='cursor:pointer;' alt="Desligar Exaustor" 
+title="Desligar motor do Exaustor."
+src="graphics\Bomba-On-Off-gd\pump-on-large.png" 
+width="80"
+height="20"
+border="0">

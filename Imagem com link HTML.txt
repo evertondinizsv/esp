@@ -1,0 +1,2 @@
+<a href='http://localhost:8081/ScadaBR/views.shtm?viewId=3'><img
+src='graphics\Bomba-On-Off-gd\pump-on-large.png'/></a>
